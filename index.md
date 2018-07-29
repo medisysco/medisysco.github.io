@@ -76,10 +76,10 @@ This project started aim to development HL7 Interoperability/Integration to add 
 ### Contact
 
 - [**info@medisys.com.my**][200]
-- [**www.medisys.com.my**][100] 
+- [**medisys.com.my**][100] 
 
 
-[100]:  http://www.medisys.com.my "Medical Systems Co."
+[100]:  http://medisys.com.my "Medical Systems Co."
 [101]:  https://github.com/ "GitHub"
 [102]:  https://github.com/medisysco/medisysco.github.io "medisysco.github.io"
 [103]:  https://github.com/medisysco/medisysco.github.io "medisysco.github.io"

@@ -1,3 +1,8 @@
+---
+title: Medical Systems Co.
+published: true
+---
+
 # [medisysco.github.io][103]
 
 This is the official organization pages of [Medical Systems Co.][100] It's a GitHub Jekyll pages project to generate static pages for [Medical Systems Co.][100] All of the resource and library of [Medical Systems Co.][100] permitted to use under considering `GPL V3` license. Clone the source code from [GitHub][101] at [medisysco.github.io][103] `git` repository.
